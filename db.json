@@ -1,0 +1,31 @@
+{
+  "proizvodi": [
+    {
+      "id": 0,
+      "name": "Boots",
+      "price": 120,
+      "img": "img/boots.jpg",
+      "desc": "Neki opis cizama",
+      "category": "boots, man",
+      "qty": 3
+    },
+    {
+      "id": 1,
+      "name": "Gloves",
+      "price": 30,
+      "img": "img/gloves.jpg",
+      "desc": "Neki opis rukavica",
+      "category": "rukavice, man",
+      "qty": 8
+    },
+    {
+      "id": 2,
+      "name": "Jackets",
+      "price": 200,
+      "img": "img/jackets.jpg",
+      "desc": "Neki opis jakne",
+      "category": "jacket, man",
+      "qty": 4
+    }
+  ]
+}
